@@ -1,4 +1,10 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<div align="right">
+  <img height="200" src=""  />
+</div>
+
+###
+
+<h1 align="center">Hey I'm CRXYZ</h1>
 
 ###
 
@@ -21,15 +27,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="60" alt="discord logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="60" alt="cloudflare logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="60" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="60" alt="linux logo"  />
 </div>
 
 ###
@@ -38,6 +42,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
 ###
@@ -54,6 +59,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iloveCRXYZ/iloveCRXYZ/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iloveCRXYZ.iloveCRXYZ&left_color=black&right_color=gray"  />
+</div>
+
+###
 ###
 
 <div align="left">
